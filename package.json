@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node automate.js",
+    "save": "node saveCredentitials.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^22.15.0"
+  }
+}
